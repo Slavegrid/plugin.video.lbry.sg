@@ -1,10 +1,10 @@
 # plugin.video.lbry.sg
 Odysee/Lbry Addon for Kodi. A fork of [plugin.video.lbry](https://github.com/accumulator/plugin.video.lbry). This version fixes various bugs and introduces Odysee user account integration which allows:
 
-* Video voting
 * Commenting
 * Livestreaming
-* User and livestreaming notifications
+* Voting
+* Notifications
 
 The latest release can be found here: https://slavegrid.com/kodi/matrix/plugin.video.lbry.sg/plugin.video.lbry.sg-1.4.3+matrix.1.zip
 
